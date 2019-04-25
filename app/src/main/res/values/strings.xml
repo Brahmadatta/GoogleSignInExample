@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoogleSignInExample</string>
+    <string name="webclient_id">391358982338-j0uo810t87c1jueefih6u67v91hj814l.apps.googleusercontent.com</string>
+    <string name="google_signin">Google SignIn</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="email_user">Email USer</string>
+    <string name="user_id">User Id</string>
+</resources>
